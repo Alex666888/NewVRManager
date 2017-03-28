@@ -1,0 +1,6 @@
+D:\gxf\Projects\VRManager\VRManager\bin\Debug\VRManager.exe
+D:\gxf\Projects\VRManager\VRManager\bin\Debug\VRManager.pdb
+D:\gxf\Projects\VRManager\VRManager\obj\x86\Debug\VRManager.Properties.Resources.resources
+D:\gxf\Projects\VRManager\VRManager\obj\x86\Debug\VRManager.csproj.GenerateResource.Cache
+D:\gxf\Projects\VRManager\VRManager\obj\x86\Debug\VRManager.exe
+D:\gxf\Projects\VRManager\VRManager\obj\x86\Debug\VRManager.pdb
